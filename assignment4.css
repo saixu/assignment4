@@ -95,4 +95,17 @@ input:-moz-placeholder {
   font-weight: bold;
   line-height: 45px;
   text-align: center;
+
+}
+#result li{
+  list-style: none;
+  display: block;
+  font: 30px;
+  font: bold;
+  margin-left: -20px;
+  margin-bottom: 10px
+}
+#result li a{
+  text-decoration: black;
+  color: black;
 }
